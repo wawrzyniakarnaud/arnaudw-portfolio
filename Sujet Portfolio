@@ -1,0 +1,42 @@
+Le projet doit-être en anglais
+
+Dans ce document : VOUS = prenom+initiale. Par exemple, pour Yves Tannier : yvest. Vous devez respecter strictement les règles de nommage et d’organisation
+
+Veillez à rester simple mais efficace dans vos choix afin de rendre les livrables dans les temps demandés. Vous serez évalué sur la qualité des livrables
+
+Préparation du projet
+
+Vous devez préparer les éléments de votre projet :
+
+github qui doit s'appeler VOUS-portfolio
+BDD qui doit s'appeler VOUS_portfolio
+FTP doit s'appeler VOUS-portfolio
+
+Phase 1 - Brief et wireframe
+
+Description
+
+Vous êtes votre propre client. À ce titre, vous écrivez un brief et réalisez des 
+wireframes pour votre application mobile portfolio qui contiendra à minima :
+
+vos compétences techniques
+
+votre formation
+
+vos informations personnelles de base (prénom, nom, âge)
+
+vos projets abordés par fiche projet avec une illustration du projet (par exemple, 
+
+un screenshot), le titre du projet, le mois et l'année de réalisation, un descriptif de 3 lignes)
+
+un formulaire de contact
+
+Contrainte
+
+Le brief (hors wireframe) doit faire une page maximum (Arial 11)
+
+Le document doit commencer par un titre “Brief portfolio Prénom NOM” et sera en anglais.
+
+
+Votre cahier des charges doit-être un fichier PDF nommé VOUS-portfolio-CDC.pdf dans un répertoire nommé "projet/CDC" de votre dépôt git
+
